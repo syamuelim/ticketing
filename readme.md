@@ -1,4 +1,4 @@
-## !!! have to install python first !!!
+
 
 # window
     1. run Git-2.37.0-32-bit
